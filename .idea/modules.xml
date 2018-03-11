@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RetroFitAndroidConnectivity.iml" filepath="$PROJECT_DIR$/RetroFitAndroidConnectivity.iml" />
+      <module fileurl="file://E:\Android\android projects\fypSmartCloudMobile\RetroFitAndroidConnectivity.iml" filepath="E:\Android\android projects\fypSmartCloudMobile\RetroFitAndroidConnectivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Android\android projects\fypSmartCloudMobile\app\app.iml" filepath="E:\Android\android projects\fypSmartCloudMobile\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fypSmartCloudMobile.iml" filepath="$PROJECT_DIR$/fypSmartCloudMobile.iml" />
     </modules>
   </component>
 </project>
